@@ -75,3 +75,7 @@ button:focus-visible {
 header {
   background-color: aqua;
 }
+
+h1 {
+  color: aquamarine;
+}
